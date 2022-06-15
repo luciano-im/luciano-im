@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Luciano 👋</h1>
+<p align="center">
+    <a href="https://luciano.im/"><img src="https://img.shields.io/badge/portfolio-ee3d46?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" /></a>&nbsp;
+    <!--<a href=""><img src="https://img.shields.io/badge/instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;-->
+    <a href="https://twitter.com/luciano_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+    <a href="https://dev.to/luciano_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/luciano-mu%C3%B1oz/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+<br />
+<p align="center"><b>Full Stack Developer - 🛠 Currently working with Python and Javascript</b></p>
+<br />
+<p>I discovered that I love sharing my learning path with other people getting into tech, so I'm writing technical posts every week on <a href="https://dev.to/luciano_dev">Dev.to</a>.</p>
+<p>I chose Python 🐍 and Javascript 💛 as my main programming languages.</p>
+<br />
 
-<!--
-**luciano-im/luciano-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+Timezone: America/Argentina/Buenos Aires (UTC-3)
+</p>
+<br />
+<p>Hi! My name is Luciano. I'm a Full Stack Web Developer from Argentina with 6+ years of professional experience in the industry, and 10+ years programming as a hobby. I've built many websites with different frameworks and technologies (HTML, CSS, Javscript, Python, PHP, etc.), which reflects my passion and effort to be continuously learning new things for my professional and personal development.</p>
+<p>✨ Currently working with Python + Django, Javscript + React, HTML and CSS to build websites, and React Native for mobile development. ✨</p>
+<br />
+<p>:muscle: I am currently ... writing posts and coding side projects while I'm in the process of being hired by some company that needs a SSR Full Stack Developer.</p>
+<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
+<p>:raising_hand: I’m looking to collaborate with ... Python open-source projects.</p>
+<p>:speech_balloon: How to reach me?... Just send me a tweet or a DM in Twitter.</p>
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--<h2 align="center">My favorite projects 💻</h2>
+<br />-->
