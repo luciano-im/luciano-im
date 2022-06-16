@@ -12,7 +12,37 @@
 <p>I discovered that I love sharing my learning path with other people getting into tech, so I'm writing technical posts every week on <a href="https://dev.to/luciano_dev">Dev.to</a>.</p>
 <p>I chose Python 🐍 and Javascript 💛 as my main programming languages.</p>
 <br />
-
+<br />
+<h2 align="center">✨ What I do?</h2>
+<p>These are some of my favorite projects, of which I am proud, either for the results or for the things learned during its development.</p>
+<p align="center">
+  <!--<img width="400" src="" />
+  <img width="400" src="" />-->
+  <a href="https://github.com/luciano-im/django-custom-url">
+      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=luciano-im&repo=django-custom-url&theme=dracula" />
+  </a>
+  <a href="https://github.com/luciano-im/whats-in-the-box">
+      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=luciano-im&repo=whats-in-the-box&theme=dracula" />
+  </a>
+  <!--<img width="400" src="" />
+  <img width="400" src="" />-->
+  <a href="https://github.com/luciano-im/SimpleDesktop-Bot">
+      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=luciano-im&repo=SimpleDesktop-Bot&theme=dracula" />
+  </a>
+  <a href="https://github.com/luciano-im/luciano.im">
+      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=luciano-im&repo=luciano.im&theme=dracula" />
+  </a>
+  <!--<img width="400" src="" />
+  <img width="400" src="" />-->
+  <a href="https://github.com/luciano-im/realtrends-challenge">
+      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=luciano-im&repo=realtrends-challenge&theme=dracula" />
+  </a>
+  <a href="https://github.com/luciano-im/buratovich-site">
+      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=luciano-im&repo=buratovich-site&theme=dracula" />
+  </a>
+</p>
+<br />
+<br />
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
 Timezone: America/Argentina/Buenos Aires (UTC-3)
@@ -26,6 +56,8 @@ Timezone: America/Argentina/Buenos Aires (UTC-3)
 <p>:raising_hand: I’m looking to collaborate with ... Python open-source projects.</p>
 <p>:speech_balloon: How to reach me?... Just send me a tweet or a DM in Twitter.</p>
 <br />
-
-<!--<h2 align="center">My favorite projects 💻</h2>
-<br />-->
+<br />
+<p align="center">
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luciano-im&hide=contribs&count_private=true&show_icons=true&theme=dracula" width="410"/></div>
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-im&layout=compact&theme=dracula" width="410" /></div>
+</p>
