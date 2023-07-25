@@ -58,6 +58,6 @@ Timezone: America/Argentina/Buenos Aires (UTC-3)
 <br />
 <br />
 <p align="center">
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luciano-im&hide=contribs&count_private=true&show_icons=true&theme=dracula" width="410"/></div>
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luciano-im&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" width="410"/></div>
     <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-im&layout=compact&theme=dracula" width="410" /></div>
 </p>
